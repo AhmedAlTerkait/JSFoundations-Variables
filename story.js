@@ -1,7 +1,8 @@
-// Define the name here on line 2
+const name = "Ahmed AlTerkait";
+const age = 28;
+const hobby = "reading";
 
-// Define the age here on line 4
-
-// Define the hobby here on line 6
-
-// Print the story here on line 8
+console.log(
+  `Mr. ${name}, in 33 years, I will be ${age + 33}
+   years old. By then I'll have decades of ${hobby} practice!`
+);
